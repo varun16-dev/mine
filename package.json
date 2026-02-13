@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/optimize-images.js && vite build""lint": "eslint .",
+    "build": "vite build",
+    "lint": "eslint .",
     "preview": "vite preview",
     "optimize-images": "node scripts/optimize-images.js"
   },
@@ -15,7 +16,6 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
-  
   "devDependencies": {
     "@eslint/js": "^9.39.1",
     "@types/react": "^19.2.5",

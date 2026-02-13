@@ -1,0 +1,174 @@
+{
+  "names": {
+    "sender": "Un Thangameyyy",
+    "receiver": "Thangapulla"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Thimsukatta",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/1.jpeg",
+      "caption": "Our first Selfie"
+    },
+    {
+      "image": "/src/assets/couple_photo/2.jpeg", 
+      "caption": "First Date Vibes"
+    },
+    {
+      "image": "/src/assets/couple_photo/3.jpeg",
+      "caption": "First Hand Holding Moment"
+    },
+    {
+      "image": "/src/assets/couple_photo/4.jpeg",
+      "caption": "VC Funzz"
+    },
+    {
+      "image": "/src/assets/couple_photo/8.jpeg",
+      "caption": "First Pic After We Became Official"
+    },
+    {
+      "image": "/src/assets/couple_photo/5.jpeg",
+      "caption": "One of the most memorable day"
+    }
+    ,
+    {
+      "image": "/src/assets/couple_photo/9.jpeg",
+      "caption": "First hand printing moment together"
+    }
+    
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… like actually listen"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Para Para",
+      "duration": "4:23",
+      "album": "Neerparavai",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Para Para.jpg",
+      "audio": "/src/assets/songs/Para Para.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Akkam Pakkam",
+      "duration": "3:51", 
+      "album": "Kiridam",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Akkam Pakkam.jpg",
+      "audio": "/src/assets/songs/Akkam Pakkam.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Saayndhu Saayndhu",
+      "duration": "6:11",
+      "album": "Neethane En Ponvasantham",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Saayndhu Saayndhu.jpg",
+      "audio": "/src/assets/songs/Saayndhu Saayndhu.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Nee Maaya Nizhal",
+      "duration": "4:14",
+      "album": "Hi Nana",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Nee Maaya Nizhal.jpg",
+      "audio": "/src/assets/songs/Nee Maaya Nizhal.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Kadhal Kanave",
+      "duration": "4:08",
+      "album": "Mundasupatti",
+      "artist": "",
+      "cover": "/src/assets/album-covers/mundasupatti.jpg",
+      "audio": "/src/assets/songs/kadhal-kanave.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Wifey,",
+    "content": [
+      "You didn’t just touch my heart; you rewrote the rhythm it beats in, turning every quiet moment into something that softly speaks your name.",
+      "In a world that keeps rushing forward, you are the moment I wish to stay inside forever—the pause where everything finally feels right.",
+      "If my soul had a language, it would whisper your name in every breath, like a quiet prayer it never wants to end."
+    ],
+    "signature": "Forever yours,\nUn Thangameyyy"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
